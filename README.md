@@ -1,16 +1,6 @@
-# Evaluacion N°1
+# Proyecto DevOps 
 
-> Primera prueba del ramo de DevOps - fecha 07-04-2026
+## 📝 Descripción
+Este repositorio contiene una corrección urgente (**Hotfix**) aplicada al ciclo de vida del software. El objetivo es restaurar la estabilidad del sistema aplicando prácticas de **Integración Continua (CI)** para validar la integridad del código antes de su despliegue final.
 
-## 📋 Descripción General
-Este proyecto resuelve [problema específico]. Permite a los usuarios realizar [función clave 1] y [función clave 2] de manera eficiente, optimizando el flujo de trabajo de [área de aplicación].
-
-## ⚙️ Arquitectura y Flujo
-1. **Extracción:** Obtención de datos desde [fuente].
-2. **Transformación:** Limpieza y normalización mediante [herramienta].
-3. **Carga:** Persistencia en base de datos relacional.
-
-## 🚀 Instalación y Configuración
-
-### Requisitos Previos
-* [Ej: Docker, Python 3.x, Node.js]
+**Autor:** Abrahan Vivas
