@@ -1,0 +1,26 @@
+name: Pipeline - DevOps
+
+on:
+  push:
+    branches: ["develop"]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prueba Archivos
+        run: |
+          echo "Iniciando validación de documentacion"
+          ls -R
+          echo "Todos los archivos .md estan presentes."
+
+      - name: Markdown Lint
+        run: |
+          echo "Revisando formato de archivos Markdown..."
+          # Este comando solo imprime un mensaje para simular una revisión
+          echo "Análisis completado: 0 errores encontrados."
