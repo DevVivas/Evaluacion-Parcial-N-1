@@ -1,8 +1,13 @@
-# Guía de Contribución 🤝
-
-Para mantener la integridad del proyecto, seguimos el flujo de trabajo **GitFlow**.
-
-### 🌿 Flujo de Ramas
-* `main`: Código productivo y estable.
-* `develop`: Rama de integración para nuevas funciones.
-* `feature/*`: Ramas temporales para tareas específicas.
+# CONTRIBUTING
+TEXTO
+## ¿Como puedo contribuir?
+Puedes contribuir de varias formas:
+- Reportando bugs
+- Proponiendo nuevas funcionalidades
+- Mejorando el código existente
+- Mejorando la documentación
+---
+### Clonar
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo

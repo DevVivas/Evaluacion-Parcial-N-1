@@ -24,3 +24,9 @@ jobs:
           echo "Revisando formato de archivos Markdown..."
           # Este comando solo imprime un mensaje para simular una revisión
           echo "Análisis completado: 0 errores encontrados."
+
+      - name: "Run Markdownlint"
+        uses: davidanson/markdownlint-cli2-action@v16
+        with:
+          config: '.markdownlint.json'
+          globs: '**/*.md'
