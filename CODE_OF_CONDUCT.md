@@ -3,7 +3,7 @@
 ## Comportamiento Esperado
 Para mantener un entorno de desarrollo óptimo, se espera que todos los colaboradores:
 - **Fomenten la empatía:** Actuar con respeto y profesionalismo ante las diversas opiniones y niveles técnicos del equipo.
-- **Cultura de Mejora Continua:** Recibir y procesar la crítica técnica como una oportunidad de aprendizaje, manteniendo el enfoque en la calidad del código.
+- **Cultura de Mejora Continua:** Recibir y procesar la crítica técnica como una oportunidad de aprendizaje, manteniendo el enfoque en la calidad  del código. vamos a cambiar esto.
 - **Comunicación Asertiva:** Proporcionar retroalimentación técnica clara, objetiva y fundamentada en buenas prácticas.
 
 ---
