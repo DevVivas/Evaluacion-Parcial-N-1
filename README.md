@@ -8,10 +8,10 @@ Aplicación de prácticas de **DevOps** para la automatización de despliegues y
 ## 🏗️ Gobernanza del Desarrollo
 
 ### 1. Naming de Ramas (Git Flow)
-Para mantener la trazabilidad, las ramas deben seguir esta nomenclatura:
-* `hotfix/descripción-breve`: Correcciones urgentes en producción.
-* `feature/nombre-funcionalidad`: Desarrollo de nuevas características.
-* `bugfix/ticket-id`: Resolución de errores menores detectados en desarrollo.
+Para mantener la trazabilidad, las ramas deben seguir esta nomenclatura: XD XD XD XD
+* `hotfix/descripción-breve`: Correcciones urgentes en producción.asasas
+* `feature/nombre-funcionalidad`: Desarrollo de nuevas características.asas
+* `bugfix/ticket-id`: Resolución de errores menores detectados en desarrollo.asas
 
 ### 2. Convenciones de Commits (Conventional Commits)
 Se requiere el uso de prefijos para facilitar la generación de changelogs automáticos:
