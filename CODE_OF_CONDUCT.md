@@ -12,9 +12,5 @@ Para mantener un entorno de desarrollo óptimo, se espera que todos los colabora
 Bajo ninguna circunstancia se permitirá en este repositorio:
 - **Hostilidad Técnica:** Lenguaje despectivo, discriminatorio o que atente contra la integridad de los participantes.
 - **Falacias Ad Hominem:** Realizar ataques personales o insultos en lugar de discutir soluciones técnicas.
-- **Conductas de Intimidación:** Acoso, sabotaje de commits o cualquier forma de comportamiento que genere un ambiente tóxico.
-
----
-
-## Autor
-**Abrahan Vivas**
+- **Conductas de Intimidación:** Acoso, sabotaje de commits o cualquier forma de comportamiento que genere un ambiente tóxico. as as as as 
+**
