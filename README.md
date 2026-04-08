@@ -1,6 +1,5 @@
 # DevOps Project: High-Availability Hotfix 🛠️
 
-> **Contexto de Operación:** Este repositorio gestiona una corrección crítica (Hotfix) bajo estándares de automatización de nivel industrial, garantizando la estabilidad del sistema mediante flujos de trabajo controlados. Estoy agregando este texto, que esta demas. Estoy volviendo a hacer lo mismo para probar devuelta.
 
 ## 📝 Descripción del Proyecto
 Aplicación de prácticas de **DevOps** para la automatización de despliegues y gestión de calidad. Este proyecto implementa un pipeline robusto de CI/CD que valida cada cambio antes de su integración a ramas productivas.
@@ -54,5 +53,4 @@ El archivo `.github/workflows/ci-cd.yml` gestiona automáticamente:
 **Semestre:** 3er Semestre - DevOps Academics
 
 
-## 📝 Descripción
-Este repositorio contiene una corrección urgente (**Hotfix**) aplicada al ciclo de vida del software. El objetivo es restaurar la estabilidad del sistema aplicando prácticas de **Integración Continua (CI)** para validar la integridad del código antes de su despliegue final.
+
