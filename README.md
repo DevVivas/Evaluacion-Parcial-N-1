@@ -11,11 +11,11 @@ Aplicación de prácticas de **DevOps** para la automatización de despliegues y
 Para mantener la trazabilidad, las ramas deben seguir esta nomenclatura:
 * `hotfix/descripción-breve`: Correcciones urgentes en producción.
 * `feature/nombre-funcionalidad`: Desarrollo de nuevas características.
-* `bugfix/ticket-id`: Resolución de errores menores detectados en desarrollo.
+* `bugfix/ticket-id`: Resolución de errores menores detectados en desarrollo.asasas
 
-### 2. Convenciones de Commits (Conventional Commits)
+### 2. Convenciones de Commits (Conventional Commits)asasas
 Se requiere el uso de prefijos para facilitar la generación de changelogs automáticos:
-* `fix:` Corrección de errores (relacionado con el Hotfix actual).
+sssss* `fix:` Corrección de errores (relacionado con el Hotfix actual).
 * `feat:` Nueva funcionalidad.
 * `docs:` Cambios solo en la documentación.
 * `test:` Añadir o corregir pruebas existentes.
