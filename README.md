@@ -1,6 +1,6 @@
 # DevOps Project: High-Availability Hotfix 🛠️
 
-> **Contexto de Operación:** Este repositorio gestiona una corrección crítica (Hotfix) bajo estándares de automatización de nivel industrial, garantizando la estabilidad del sistema mediante flujos de trabajo controlados.
+> **Contexto de Operación:** Este repositorio gestiona una corrección crítica (Hotfix) bajo estándares de automatización de nivel industrial, garantizando la estabilidad del sistema mediante flujos de trabajo controlados. Estoy agregando este texto, que esta demas.
 
 ## 📝 Descripción del Proyecto
 Aplicación de prácticas de **DevOps** para la automatización de despliegues y gestión de calidad. Este proyecto implementa un pipeline robusto de CI/CD que valida cada cambio antes de su integración a ramas productivas.
