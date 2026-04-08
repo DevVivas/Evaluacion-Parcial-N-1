@@ -1,6 +1,5 @@
 # DevOps Project: High-Availability Hotfix 🛠️
 
-
 ## 📝 Descripción del Proyecto
 Aplicación de prácticas de **DevOps** para la automatización de despliegues y gestión de calidad. Este proyecto implementa un pipeline robusto de CI/CD que valida cada cambio antes de su integración a ramas productivas.
 
